@@ -27,6 +27,26 @@ current_focus:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-Thilina&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev-Thilina&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180em" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Dev-Thilina&theme=radical&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=888888" alt="GitHub Streak" />
+
+</div>
+
+---
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -85,6 +105,24 @@ current_focus:
 
 ---
 
+
+<!-- If stats above don't load, uncomment this section and comment out the above:
+
+<div align="center">
+
+**📈 Activity Overview**
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Thilina&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Thilina&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Thilina&theme=radical)
+
+</div>
+
+-->
+
+---
+
 ## 💭 Developer Philosophy
 
 > **"If I don't like a language, I'll make my own"**  
@@ -97,16 +135,6 @@ current_focus:
 ├─ ⚡ Performance is non-negotiable
 └─ 🐧 Linux powers everything
 ```
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Thilina&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00)
-
-</div>
 
 ---
 
