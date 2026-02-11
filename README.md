@@ -5,7 +5,7 @@
 ### Software Developer | Backend Systems | Game Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thilina-projects.nichesite.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thilina-projects.nichesite.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Thilina)
 
 </div>
