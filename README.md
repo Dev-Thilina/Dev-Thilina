@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Thilina Tharuphati
 
-### Software Developer | Backend Systems | Game Development
+### Software Developer | Fullstack Systems | Game Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thilina-projects.nichesite.org/)
